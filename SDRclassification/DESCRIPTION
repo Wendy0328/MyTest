@@ -1,0 +1,12 @@
+Package: SDRclassification
+Type: Package
+Title: Making classification according to SDR
+Version: 1.0
+Date: 2021-06-10
+Author: Wendy
+Maintainer: Wendy<1226994409@qq.com>
+Description: 
+   SDR(standard deviation reduction) describes the reduction in standard deviation by comparing the standard deviation post-split.
+   If the dependent variable are decided by one independent variable, and the dependent variable is divided into two parts according to the value of the independent variable. Then the greater the SDR is, the better our classification is.
+   This function extends this classification method to multivariable problems. The function calculates the maximum SDR that can be obtained by classifying each variable, compares these SDRs, and selects the variable with the largest SDR for classification. Users can choose how many layers the data is divided into to get a result similar to decision tree.
+License: Nothing
