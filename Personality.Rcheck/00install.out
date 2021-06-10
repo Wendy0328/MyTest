@@ -1,0 +1,14 @@
+* installing *source* package 'Personality' ...
+** using staged installation
+** R
+** byte-compile and prepare package for lazy loading
+Hello Ella ! Are you ready to find out your personality secret? 
+ Please type YES if you are ready and of course type NO if you are not:
+Answer not valid
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* DONE (Personality)

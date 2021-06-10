@@ -1,0 +1,9 @@
+Package: Personality
+Type: Package
+Title: Test somenone's personality
+Version: 1.0
+Date: 2021-06-10
+Author: Wendy
+Maintainer: Wendy<1226994409@qq.com>
+Description: You can use this function to do a simple test about your personality and have some fun! Just type your name and answer the questions.
+License: GPL (>= 2)

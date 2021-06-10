@@ -1,0 +1,639 @@
+Hmm ... looks like a package
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex)
+ restricted \write18 enabled.
+entering extended mode
+(./Rd2.tex
+LaTeX2e <2020-02-02> patch level 5
+L3 programming layer <2020-03-06>
+(d:/TEX live/texlive/2020/texmf-dist/tex/latex/base/book.cls
+Document Class: book 2019/12/20 v1.4l Standard LaTeX document class
+(d:/TEX live/texlive/2020/texmf-dist/tex/latex/base/bk10.clo))
+(d:/R/RSET/R-4.0.3/share/texmf/tex/latex/Rd.sty
+(d:/TEX live/texlive/2020/texmf-dist/tex/latex/base/ifthen.sty)
+(d:/TEX live/texlive/2020/texmf-dist/tex/latex/tools/longtable.sty)
+(d:/TEX live/texlive/2020/texmf-dist/tex/latex/tools/bm.sty)
+(d:/TEX live/texlive/2020/texmf-dist/tex/latex/base/alltt.sty)
+(d:/TEX live/texlive/2020/texmf-dist/tex/latex/tools/verbatim.sty)
+(d:/TEX live/texlive/2020/texmf-dist/tex/latex/url/url.sty)
+(d:/TEX live/texlive/2020/texmf-dist/tex/latex/base/textcomp.sty)
+(d:/TEX live/texlive/2020/texmf-dist/tex/latex/base/fontenc.sty)
+(d:/TEX live/texlive/2020/texmf-dist/tex/latex/psnfss/times.sty)
+(d:/TEX live/texlive/2020/texmf-dist/tex/latex/inconsolata/zi4.sty
+`inconsolata-zi4' v1.12, 2019/05/17 Text macros for Inconsolata (msharpe)
+(d:/TEX live/texlive/2020/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+(d:/TEX live/texlive/2020/texmf-dist/tex/generic/xkeyval/xkeyval.tex
+(d:/TEX live/texlive/2020/texmf-dist/tex/generic/xkeyval/xkvutils.tex
+(d:/TEX live/texlive/2020/texmf-dist/tex/generic/xkeyval/keyval.tex)))))
+(d:/TEX live/texlive/2020/texmf-dist/tex/latex/graphics/color.sty
+(d:/TEX live/texlive/2020/texmf-dist/tex/latex/graphics-cfg/color.cfg)
+(d:/TEX live/texlive/2020/texmf-dist/tex/latex/graphics-def/pdftex.def))
+(d:/TEX live/texlive/2020/texmf-dist/tex/latex/hyperref/hyperref.sty
+(d:/TEX live/texlive/2020/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty)
+(d:/TEX live/texlive/2020/texmf-dist/tex/generic/iftex/iftex.sty)
+(d:/TEX live/texlive/2020/texmf-dist/tex/latex/pdftexcmds/pdftexcmds.sty
+(d:/TEX live/texlive/2020/texmf-dist/tex/generic/infwarerr/infwarerr.sty))
+(d:/TEX live/texlive/2020/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty)
+(d:/TEX live/texlive/2020/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty)
+ (d:/TEX live/texlive/2020/texmf-dist/tex/generic/pdfescape/pdfescape.sty)
+(d:/TEX live/texlive/2020/texmf-dist/tex/latex/hycolor/hycolor.sty)
+(d:/TEX live/texlive/2020/texmf-dist/tex/latex/letltxmacro/letltxmacro.sty)
+(d:/TEX live/texlive/2020/texmf-dist/tex/latex/auxhook/auxhook.sty)
+(d:/TEX live/texlive/2020/texmf-dist/tex/latex/kvoptions/kvoptions.sty)
+(d:/TEX live/texlive/2020/texmf-dist/tex/latex/hyperref/pd1enc.def)
+(d:/TEX live/texlive/2020/texmf-dist/tex/generic/intcalc/intcalc.sty)
+(d:/TEX live/texlive/2020/texmf-dist/tex/generic/etexcmds/etexcmds.sty)
+(d:/TEX live/texlive/2020/texmf-dist/tex/generic/bitset/bitset.sty
+(d:/TEX live/texlive/2020/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty))
+(d:/TEX live/texlive/2020/texmf-dist/tex/generic/atbegshi/atbegshi.sty))
+(d:/TEX live/texlive/2020/texmf-dist/tex/latex/hyperref/hpdftex.def
+(d:/TEX live/texlive/2020/texmf-dist/tex/latex/atveryend/atveryend.sty)
+(d:/TEX live/texlive/2020/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.st
+y
+(d:/TEX live/texlive/2020/texmf-dist/tex/generic/uniquecounter/uniquecounter.st
+y)))
+
+Package hyperref Warning: Option `hyperindex' has already been used,
+(hyperref)                setting the option has no effect on input line 377.
+
+
+Package hyperref Warning: Option `pagebackref' has already been used,
+(hyperref)                setting the option has no effect on input line 377.
+
+) (d:/TEX live/texlive/2020/texmf-dist/tex/latex/base/makeidx.sty)
+(d:/TEX live/texlive/2020/texmf-dist/tex/latex/base/inputenc.sty
+(d:/TEX live/texlive/2020/texmf-dist/tex/latex/base/latin1.def))
+Writing index file Rd2.idx
+(d:/TEX live/texlive/2020/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def)
+
+No file Rd2.aux.
+(d:/TEX live/texlive/2020/texmf-dist/tex/latex/psnfss/t1ptm.fd)
+(d:/TEX live/texlive/2020/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+) (d:/TEX live/texlive/2020/texmf-dist/tex/latex/hyperref/nameref.sty
+(d:/TEX live/texlive/2020/texmf-dist/tex/latex/refcount/refcount.sty)
+(d:/TEX live/texlive/2020/texmf-dist/tex/generic/gettitlestring/gettitlestring.
+sty)) (d:/TEX live/texlive/2020/texmf-dist/tex/latex/psnfss/ts1ptm.fd)
+(d:/TEX live/texlive/2020/texmf-dist/tex/latex/inconsolata/t1zi4.fd)
+(d:/TEX live/texlive/2020/texmf-dist/tex/latex/psnfss/t1phv.fd
+
+LaTeX Warning: Font shape declaration has incorrect series value `mc'.
+               It should not contain an `m'! Please correct it.
+               Found on input line 20.
+
+
+LaTeX Warning: Font shape declaration has incorrect series value `mc'.
+               It should not contain an `m'! Please correct it.
+               Found on input line 23.
+
+
+LaTeX Warning: Font shape declaration has incorrect series value `mc'.
+               It should not contain an `m'! Please correct it.
+               Found on input line 26.
+
+
+LaTeX Warning: Font shape declaration has incorrect series value `mc'.
+               It should not contain an `m'! Please correct it.
+               Found on input line 46.
+
+) (d:/TEX live/texlive/2020/texmf-dist/tex/latex/base/utf8.def)
+Overfull \hbox (20.22874pt too wide) in paragraph at lines 57--57
+ []    \T1/zi4/m/n/9 For example, if your name is Jack, then use the function t
+his way: "Personality_test("Jack")". 
+[1{d:/TEX live/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+Overfull \hbox (20.21034pt too wide) in paragraph at lines 91--91
+ []    \T1/zi4/m/n/9 x <- readline(prompt = "Please type YES if you are ready a
+nd of course type NO if you are not:")[] 
+(d:/TEX live/texlive/2020/texmf-dist/tex/latex/inconsolata/ts1zi4.fd)
+Overfull \hbox (215.1766pt too wide) in paragraph at lines 97--97
+ []        \T1/zi4/m/n/9 cat("Why didn\TS1/zi4/m/n/9 '\T1/zi4/m/n/9 t Aladdin u
+se one wish to ask the lamp to give him 100 \nmore wishes when he was promised 
+only three wishes by the lamp? \n")[] 
+
+Overfull \hbox (356.16127pt too wide) in paragraph at lines 99--99
+ []        \T1/zi4/m/n/9 cat("A That\TS1/zi4/m/n/9 '\T1/zi4/m/n/9 s a good idea
+, but Aladdin failed to think of it \nB Aladdin was embarrassed to make such a 
+request, because it might make the princess think he was greedy \n")[] 
+
+Overfull \hbox (234.67047pt too wide) in paragraph at lines 102--102
+ []            \T1/zi4/m/n/9 cat("The second question:\nDo you think Jack and R
+ose can actually both lie on the board in the end of the Titanic movie to avoid
+ death?\n")[] 
+
+Overfull \hbox (26.195pt too wide) in paragraph at lines 107--107
+ []                \T1/zi4/m/n/9 cat("The third question: \nWhich do you think 
+is more beautiful, sunrise or sunset?\n")[] 
+
+Overfull \hbox (518.12447pt too wide) in paragraph at lines 112--112
+ []                  \T1/zi4/m/n/9 cat("RESULT:\n  ", NAME, ", you are good at 
+thinking, have excellent questioning spirit and will put your ideas \ninto prac
+tice. You will go further and further on the road of achieving great success.")
+[] 
+[2]
+Overfull \hbox (284.15207pt too wide) in paragraph at lines 115--115
+ []                  \T1/zi4/m/n/9 cat("RESULT:\n   You are a person with sharp
+ mind and good at dialectical thinking. Your wisdom \nfrom inside to outside ma
+kes you very charming.")[] 
+
+Overfull \hbox (26.195pt too wide) in paragraph at lines 122--122
+ []                \T1/zi4/m/n/9 cat("The third question: \nWhich do you think 
+is more beautiful, sunrise or sunset?\n")[] 
+
+Overfull \hbox (435.6398pt too wide) in paragraph at lines 127--127
+ []                  \T1/zi4/m/n/9 cat("RESULT:\n  ", NAME, ", you are a smart 
+and romantic person, you may give people a reliable, optimistic and enthusiasti
+c \nimpression, which makes everyone likes you very much.")[] 
+
+Overfull \hbox (489.6214pt too wide) in paragraph at lines 130--130
+ []                  \T1/zi4/m/n/9 cat("RESULT:\n  ", NAME, ", you are a smart 
+and cool person, you are always clear headed, full of wisdom, and most \nimport
+ant, you are always true to yourself and pursuing what you really want.")[] 
+
+Overfull \hbox (234.67047pt too wide) in paragraph at lines 141--141
+ []            \T1/zi4/m/n/9 cat("The second question:\nDo you think Jack and R
+ose can actually both lie on the board in the end of the Titanic movie to avoid
+ death?\n")[] 
+
+Overfull \hbox (26.195pt too wide) in paragraph at lines 146--146
+ []                \T1/zi4/m/n/9 cat("The third question: \nWhich do you think 
+is more beautiful, sunrise or sunset?\n")[] 
+
+Overfull \hbox (428.13367pt too wide) in paragraph at lines 151--151
+ []                  \T1/zi4/m/n/9 cat("RESULT:\n  ", NAME, ", you have a quest
+ioning spirit, you are a hard-working and thorough person, and good \nat taking
+ care of other people\TS1/zi4/m/n/9 '\T1/zi4/m/n/9 s emotions. You have very hi
+gh EQ.")[] 
+
+Overfull \hbox (527.12447pt too wide) in paragraph at lines 154--154
+ []                  \T1/zi4/m/n/9 cat("RESULT:\n  ", NAME, ", you are a carefu
+l and wise person, you are good at noticing problems and resolving conflicts. \
+nYou are calm, and good at controlling the overall situation, a natural leader.
+")[] 
+
+Overfull \hbox (26.195pt too wide) in paragraph at lines 161--161
+ []                \T1/zi4/m/n/9 cat("The third question: \nWhich do you think 
+is more beautiful, sunrise or sunset?\n")[] 
+
+Overfull \hbox (323.149pt too wide) in paragraph at lines 166--166
+ []                  \T1/zi4/m/n/9 cat("RESULT:\n  ", NAME, ", you are a vigoro
+us, diligent and optimistic person, any difficulty can\TS1/zi4/m/n/9 '\T1/zi4/m
+/n/9 t beat you. \nYou are always on the way of progressing.")[] 
+
+Underfull \vbox (badness 10000) has occurred while \output is active [3]
+Overfull \hbox (276.64594pt too wide) in paragraph at lines 169--169
+ []                  \T1/zi4/m/n/9 cat("RESULT:\n  You are a person who is good
+ at discovering the beauty in life and you are very romantic \nand charming. Yo
+u are like an artist.")[] 
+No file Rd2.ind.
+[4] (./Rd2.aux)
+
+Package rerunfilecheck Warning: File `Rd2.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+ )
+(see the transcript file for additional information){d:/TEX live/texlive/2020/t
+exmf-dist/fonts/enc/dvips/inconsolata/i4-ts1.enc}{d:/TEX live/texlive/2020/texm
+f-dist/fonts/enc/dvips/base/8r.enc}{d:/TEX live/texlive/2020/texmf-dist/fonts/e
+nc/dvips/inconsolata/i4-t1-0.enc}<d:/TEX live/texlive/2020/texmf-dist/fonts/typ
+e1/public/inconsolata/Inconsolata-zi4r.pfb><d:/TEX live/texlive/2020/texmf-dist
+/fonts/type1/urw/helvetic/uhvr8a.pfb><d:/TEX live/texlive/2020/texmf-dist/fonts
+/type1/urw/times/utmb8a.pfb><d:/TEX live/texlive/2020/texmf-dist/fonts/type1/ur
+w/times/utmr8a.pfb><d:/TEX live/texlive/2020/texmf-dist/fonts/type1/urw/times/u
+tmr8a.pfb><d:/TEX live/texlive/2020/texmf-dist/fonts/type1/urw/times/utmri8a.pf
+b>
+Output written on Rd2.pdf (4 pages, 74860 bytes).
+Transcript written on Rd2.log.
+This is makeindex, version 2.15 [TeX Live 2020/W32TeX] (kpathsea + Thai support).
+Scanning input file Rd2.idx....done (4 entries accepted, 0 rejected).
+Sorting entries....done (9 comparisons).
+Generating output file Rd2.ind....done (13 lines written, 0 warnings).
+Output written in Rd2.ind.
+Transcript written in Rd2.ilg.
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex)
+ restricted \write18 enabled.
+entering extended mode
+(./Rd2.tex
+LaTeX2e <2020-02-02> patch level 5
+L3 programming layer <2020-03-06>
+(d:/TEX live/texlive/2020/texmf-dist/tex/latex/base/book.cls
+Document Class: book 2019/12/20 v1.4l Standard LaTeX document class
+(d:/TEX live/texlive/2020/texmf-dist/tex/latex/base/bk10.clo))
+(d:/R/RSET/R-4.0.3/share/texmf/tex/latex/Rd.sty
+(d:/TEX live/texlive/2020/texmf-dist/tex/latex/base/ifthen.sty)
+(d:/TEX live/texlive/2020/texmf-dist/tex/latex/tools/longtable.sty)
+(d:/TEX live/texlive/2020/texmf-dist/tex/latex/tools/bm.sty)
+(d:/TEX live/texlive/2020/texmf-dist/tex/latex/base/alltt.sty)
+(d:/TEX live/texlive/2020/texmf-dist/tex/latex/tools/verbatim.sty)
+(d:/TEX live/texlive/2020/texmf-dist/tex/latex/url/url.sty)
+(d:/TEX live/texlive/2020/texmf-dist/tex/latex/base/textcomp.sty)
+(d:/TEX live/texlive/2020/texmf-dist/tex/latex/base/fontenc.sty)
+(d:/TEX live/texlive/2020/texmf-dist/tex/latex/psnfss/times.sty)
+(d:/TEX live/texlive/2020/texmf-dist/tex/latex/inconsolata/zi4.sty
+`inconsolata-zi4' v1.12, 2019/05/17 Text macros for Inconsolata (msharpe)
+(d:/TEX live/texlive/2020/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+(d:/TEX live/texlive/2020/texmf-dist/tex/generic/xkeyval/xkeyval.tex
+(d:/TEX live/texlive/2020/texmf-dist/tex/generic/xkeyval/xkvutils.tex
+(d:/TEX live/texlive/2020/texmf-dist/tex/generic/xkeyval/keyval.tex)))))
+(d:/TEX live/texlive/2020/texmf-dist/tex/latex/graphics/color.sty
+(d:/TEX live/texlive/2020/texmf-dist/tex/latex/graphics-cfg/color.cfg)
+(d:/TEX live/texlive/2020/texmf-dist/tex/latex/graphics-def/pdftex.def))
+(d:/TEX live/texlive/2020/texmf-dist/tex/latex/hyperref/hyperref.sty
+(d:/TEX live/texlive/2020/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty)
+(d:/TEX live/texlive/2020/texmf-dist/tex/generic/iftex/iftex.sty)
+(d:/TEX live/texlive/2020/texmf-dist/tex/latex/pdftexcmds/pdftexcmds.sty
+(d:/TEX live/texlive/2020/texmf-dist/tex/generic/infwarerr/infwarerr.sty))
+(d:/TEX live/texlive/2020/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty)
+(d:/TEX live/texlive/2020/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty)
+ (d:/TEX live/texlive/2020/texmf-dist/tex/generic/pdfescape/pdfescape.sty)
+(d:/TEX live/texlive/2020/texmf-dist/tex/latex/hycolor/hycolor.sty)
+(d:/TEX live/texlive/2020/texmf-dist/tex/latex/letltxmacro/letltxmacro.sty)
+(d:/TEX live/texlive/2020/texmf-dist/tex/latex/auxhook/auxhook.sty)
+(d:/TEX live/texlive/2020/texmf-dist/tex/latex/kvoptions/kvoptions.sty)
+(d:/TEX live/texlive/2020/texmf-dist/tex/latex/hyperref/pd1enc.def)
+(d:/TEX live/texlive/2020/texmf-dist/tex/generic/intcalc/intcalc.sty)
+(d:/TEX live/texlive/2020/texmf-dist/tex/generic/etexcmds/etexcmds.sty)
+(d:/TEX live/texlive/2020/texmf-dist/tex/generic/bitset/bitset.sty
+(d:/TEX live/texlive/2020/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty))
+(d:/TEX live/texlive/2020/texmf-dist/tex/generic/atbegshi/atbegshi.sty))
+(d:/TEX live/texlive/2020/texmf-dist/tex/latex/hyperref/hpdftex.def
+(d:/TEX live/texlive/2020/texmf-dist/tex/latex/atveryend/atveryend.sty)
+(d:/TEX live/texlive/2020/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.st
+y
+(d:/TEX live/texlive/2020/texmf-dist/tex/generic/uniquecounter/uniquecounter.st
+y)))
+
+Package hyperref Warning: Option `hyperindex' has already been used,
+(hyperref)                setting the option has no effect on input line 377.
+
+
+Package hyperref Warning: Option `pagebackref' has already been used,
+(hyperref)                setting the option has no effect on input line 377.
+
+) (d:/TEX live/texlive/2020/texmf-dist/tex/latex/base/makeidx.sty)
+(d:/TEX live/texlive/2020/texmf-dist/tex/latex/base/inputenc.sty
+(d:/TEX live/texlive/2020/texmf-dist/tex/latex/base/latin1.def))
+Writing index file Rd2.idx
+(d:/TEX live/texlive/2020/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def)
+ (./Rd2.aux) (d:/TEX live/texlive/2020/texmf-dist/tex/latex/psnfss/t1ptm.fd)
+(d:/TEX live/texlive/2020/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+) (d:/TEX live/texlive/2020/texmf-dist/tex/latex/hyperref/nameref.sty
+(d:/TEX live/texlive/2020/texmf-dist/tex/latex/refcount/refcount.sty)
+(d:/TEX live/texlive/2020/texmf-dist/tex/generic/gettitlestring/gettitlestring.
+sty)) (./Rd2.out) (./Rd2.out)
+(d:/TEX live/texlive/2020/texmf-dist/tex/latex/psnfss/ts1ptm.fd)
+(d:/TEX live/texlive/2020/texmf-dist/tex/latex/inconsolata/t1zi4.fd)
+(d:/TEX live/texlive/2020/texmf-dist/tex/latex/psnfss/t1phv.fd
+
+LaTeX Warning: Font shape declaration has incorrect series value `mc'.
+               It should not contain an `m'! Please correct it.
+               Found on input line 20.
+
+
+LaTeX Warning: Font shape declaration has incorrect series value `mc'.
+               It should not contain an `m'! Please correct it.
+               Found on input line 23.
+
+
+LaTeX Warning: Font shape declaration has incorrect series value `mc'.
+               It should not contain an `m'! Please correct it.
+               Found on input line 26.
+
+
+LaTeX Warning: Font shape declaration has incorrect series value `mc'.
+               It should not contain an `m'! Please correct it.
+               Found on input line 46.
+
+) (./Rd2.toc) (d:/TEX live/texlive/2020/texmf-dist/tex/latex/base/utf8.def)
+[1{d:/TEX live/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+Overfull \hbox (20.22874pt too wide) in paragraph at lines 57--57
+ []    \T1/zi4/m/n/9 For example, if your name is Jack, then use the function t
+his way: "Personality_test("Jack")". 
+
+Overfull \hbox (20.21034pt too wide) in paragraph at lines 91--91
+ []    \T1/zi4/m/n/9 x <- readline(prompt = "Please type YES if you are ready a
+nd of course type NO if you are not:")[] 
+(d:/TEX live/texlive/2020/texmf-dist/tex/latex/inconsolata/ts1zi4.fd)
+Overfull \hbox (215.1766pt too wide) in paragraph at lines 97--97
+ []        \T1/zi4/m/n/9 cat("Why didn\TS1/zi4/m/n/9 '\T1/zi4/m/n/9 t Aladdin u
+se one wish to ask the lamp to give him 100 \nmore wishes when he was promised 
+only three wishes by the lamp? \n")[] 
+
+Overfull \hbox (356.16127pt too wide) in paragraph at lines 99--99
+ []        \T1/zi4/m/n/9 cat("A That\TS1/zi4/m/n/9 '\T1/zi4/m/n/9 s a good idea
+, but Aladdin failed to think of it \nB Aladdin was embarrassed to make such a 
+request, because it might make the princess think he was greedy \n")[] 
+
+Overfull \hbox (234.67047pt too wide) in paragraph at lines 102--102
+ []            \T1/zi4/m/n/9 cat("The second question:\nDo you think Jack and R
+ose can actually both lie on the board in the end of the Titanic movie to avoid
+ death?\n")[] 
+
+Overfull \hbox (26.195pt too wide) in paragraph at lines 107--107
+ []                \T1/zi4/m/n/9 cat("The third question: \nWhich do you think 
+is more beautiful, sunrise or sunset?\n")[] 
+
+Overfull \hbox (518.12447pt too wide) in paragraph at lines 112--112
+ []                  \T1/zi4/m/n/9 cat("RESULT:\n  ", NAME, ", you are good at 
+thinking, have excellent questioning spirit and will put your ideas \ninto prac
+tice. You will go further and further on the road of achieving great success.")
+[] 
+[2]
+Overfull \hbox (284.15207pt too wide) in paragraph at lines 115--115
+ []                  \T1/zi4/m/n/9 cat("RESULT:\n   You are a person with sharp
+ mind and good at dialectical thinking. Your wisdom \nfrom inside to outside ma
+kes you very charming.")[] 
+
+Overfull \hbox (26.195pt too wide) in paragraph at lines 122--122
+ []                \T1/zi4/m/n/9 cat("The third question: \nWhich do you think 
+is more beautiful, sunrise or sunset?\n")[] 
+
+Overfull \hbox (435.6398pt too wide) in paragraph at lines 127--127
+ []                  \T1/zi4/m/n/9 cat("RESULT:\n  ", NAME, ", you are a smart 
+and romantic person, you may give people a reliable, optimistic and enthusiasti
+c \nimpression, which makes everyone likes you very much.")[] 
+
+Overfull \hbox (489.6214pt too wide) in paragraph at lines 130--130
+ []                  \T1/zi4/m/n/9 cat("RESULT:\n  ", NAME, ", you are a smart 
+and cool person, you are always clear headed, full of wisdom, and most \nimport
+ant, you are always true to yourself and pursuing what you really want.")[] 
+
+Overfull \hbox (234.67047pt too wide) in paragraph at lines 141--141
+ []            \T1/zi4/m/n/9 cat("The second question:\nDo you think Jack and R
+ose can actually both lie on the board in the end of the Titanic movie to avoid
+ death?\n")[] 
+
+Overfull \hbox (26.195pt too wide) in paragraph at lines 146--146
+ []                \T1/zi4/m/n/9 cat("The third question: \nWhich do you think 
+is more beautiful, sunrise or sunset?\n")[] 
+
+Overfull \hbox (428.13367pt too wide) in paragraph at lines 151--151
+ []                  \T1/zi4/m/n/9 cat("RESULT:\n  ", NAME, ", you have a quest
+ioning spirit, you are a hard-working and thorough person, and good \nat taking
+ care of other people\TS1/zi4/m/n/9 '\T1/zi4/m/n/9 s emotions. You have very hi
+gh EQ.")[] 
+
+Overfull \hbox (527.12447pt too wide) in paragraph at lines 154--154
+ []                  \T1/zi4/m/n/9 cat("RESULT:\n  ", NAME, ", you are a carefu
+l and wise person, you are good at noticing problems and resolving conflicts. \
+nYou are calm, and good at controlling the overall situation, a natural leader.
+")[] 
+
+Overfull \hbox (26.195pt too wide) in paragraph at lines 161--161
+ []                \T1/zi4/m/n/9 cat("The third question: \nWhich do you think 
+is more beautiful, sunrise or sunset?\n")[] 
+
+Overfull \hbox (323.149pt too wide) in paragraph at lines 166--166
+ []                  \T1/zi4/m/n/9 cat("RESULT:\n  ", NAME, ", you are a vigoro
+us, diligent and optimistic person, any difficulty can\TS1/zi4/m/n/9 '\T1/zi4/m
+/n/9 t beat you. \nYou are always on the way of progressing.")[] 
+
+Underfull \vbox (badness 10000) has occurred while \output is active [3]
+Overfull \hbox (276.64594pt too wide) in paragraph at lines 169--169
+ []                  \T1/zi4/m/n/9 cat("RESULT:\n  You are a person who is good
+ at discovering the beauty in life and you are very romantic \nand charming. Yo
+u are like an artist.")[] 
+(./Rd2.ind [4]
+
+LaTeX Font Warning: Font shape `T1/zi4/m/it' undefined
+(Font)              using `T1/zi4/m/n' instead on input line 8.
+
+[5]) (./Rd2.aux)
+
+Package rerunfilecheck Warning: File `Rd2.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+ )
+(see the transcript file for additional information){d:/TEX live/texlive/2020/t
+exmf-dist/fonts/enc/dvips/inconsolata/i4-ts1.enc}{d:/TEX live/texlive/2020/texm
+f-dist/fonts/enc/dvips/base/8r.enc}{d:/TEX live/texlive/2020/texmf-dist/fonts/e
+nc/dvips/inconsolata/i4-t1-0.enc}<d:/TEX live/texlive/2020/texmf-dist/fonts/typ
+e1/public/inconsolata/Inconsolata-zi4r.pfb><d:/TEX live/texlive/2020/texmf-dist
+/fonts/type1/public/amsfonts/cm/cmsy10.pfb><d:/TEX live/texlive/2020/texmf-dist
+/fonts/type1/urw/helvetic/uhvr8a.pfb><d:/TEX live/texlive/2020/texmf-dist/fonts
+/type1/urw/times/utmb8a.pfb><d:/TEX live/texlive/2020/texmf-dist/fonts/type1/ur
+w/times/utmr8a.pfb><d:/TEX live/texlive/2020/texmf-dist/fonts/type1/urw/times/u
+tmr8a.pfb><d:/TEX live/texlive/2020/texmf-dist/fonts/type1/urw/times/utmri8a.pf
+b>
+Output written on Rd2.pdf (5 pages, 83422 bytes).
+Transcript written on Rd2.log.
+This is makeindex, version 2.15 [TeX Live 2020/W32TeX] (kpathsea + Thai support).
+Scanning input file Rd2.idx....done (4 entries accepted, 0 rejected).
+Sorting entries....done (9 comparisons).
+Generating output file Rd2.ind....done (13 lines written, 0 warnings).
+Output written in Rd2.ind.
+Transcript written in Rd2.ilg.
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex)
+ restricted \write18 enabled.
+entering extended mode
+(./Rd2.tex
+LaTeX2e <2020-02-02> patch level 5
+L3 programming layer <2020-03-06>
+(d:/TEX live/texlive/2020/texmf-dist/tex/latex/base/book.cls
+Document Class: book 2019/12/20 v1.4l Standard LaTeX document class
+(d:/TEX live/texlive/2020/texmf-dist/tex/latex/base/bk10.clo))
+(d:/R/RSET/R-4.0.3/share/texmf/tex/latex/Rd.sty
+(d:/TEX live/texlive/2020/texmf-dist/tex/latex/base/ifthen.sty)
+(d:/TEX live/texlive/2020/texmf-dist/tex/latex/tools/longtable.sty)
+(d:/TEX live/texlive/2020/texmf-dist/tex/latex/tools/bm.sty)
+(d:/TEX live/texlive/2020/texmf-dist/tex/latex/base/alltt.sty)
+(d:/TEX live/texlive/2020/texmf-dist/tex/latex/tools/verbatim.sty)
+(d:/TEX live/texlive/2020/texmf-dist/tex/latex/url/url.sty)
+(d:/TEX live/texlive/2020/texmf-dist/tex/latex/base/textcomp.sty)
+(d:/TEX live/texlive/2020/texmf-dist/tex/latex/base/fontenc.sty)
+(d:/TEX live/texlive/2020/texmf-dist/tex/latex/psnfss/times.sty)
+(d:/TEX live/texlive/2020/texmf-dist/tex/latex/inconsolata/zi4.sty
+`inconsolata-zi4' v1.12, 2019/05/17 Text macros for Inconsolata (msharpe)
+(d:/TEX live/texlive/2020/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+(d:/TEX live/texlive/2020/texmf-dist/tex/generic/xkeyval/xkeyval.tex
+(d:/TEX live/texlive/2020/texmf-dist/tex/generic/xkeyval/xkvutils.tex
+(d:/TEX live/texlive/2020/texmf-dist/tex/generic/xkeyval/keyval.tex)))))
+(d:/TEX live/texlive/2020/texmf-dist/tex/latex/graphics/color.sty
+(d:/TEX live/texlive/2020/texmf-dist/tex/latex/graphics-cfg/color.cfg)
+(d:/TEX live/texlive/2020/texmf-dist/tex/latex/graphics-def/pdftex.def))
+(d:/TEX live/texlive/2020/texmf-dist/tex/latex/hyperref/hyperref.sty
+(d:/TEX live/texlive/2020/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty)
+(d:/TEX live/texlive/2020/texmf-dist/tex/generic/iftex/iftex.sty)
+(d:/TEX live/texlive/2020/texmf-dist/tex/latex/pdftexcmds/pdftexcmds.sty
+(d:/TEX live/texlive/2020/texmf-dist/tex/generic/infwarerr/infwarerr.sty))
+(d:/TEX live/texlive/2020/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty)
+(d:/TEX live/texlive/2020/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty)
+ (d:/TEX live/texlive/2020/texmf-dist/tex/generic/pdfescape/pdfescape.sty)
+(d:/TEX live/texlive/2020/texmf-dist/tex/latex/hycolor/hycolor.sty)
+(d:/TEX live/texlive/2020/texmf-dist/tex/latex/letltxmacro/letltxmacro.sty)
+(d:/TEX live/texlive/2020/texmf-dist/tex/latex/auxhook/auxhook.sty)
+(d:/TEX live/texlive/2020/texmf-dist/tex/latex/kvoptions/kvoptions.sty)
+(d:/TEX live/texlive/2020/texmf-dist/tex/latex/hyperref/pd1enc.def)
+(d:/TEX live/texlive/2020/texmf-dist/tex/generic/intcalc/intcalc.sty)
+(d:/TEX live/texlive/2020/texmf-dist/tex/generic/etexcmds/etexcmds.sty)
+(d:/TEX live/texlive/2020/texmf-dist/tex/generic/bitset/bitset.sty
+(d:/TEX live/texlive/2020/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty))
+(d:/TEX live/texlive/2020/texmf-dist/tex/generic/atbegshi/atbegshi.sty))
+(d:/TEX live/texlive/2020/texmf-dist/tex/latex/hyperref/hpdftex.def
+(d:/TEX live/texlive/2020/texmf-dist/tex/latex/atveryend/atveryend.sty)
+(d:/TEX live/texlive/2020/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.st
+y
+(d:/TEX live/texlive/2020/texmf-dist/tex/generic/uniquecounter/uniquecounter.st
+y)))
+
+Package hyperref Warning: Option `hyperindex' has already been used,
+(hyperref)                setting the option has no effect on input line 377.
+
+
+Package hyperref Warning: Option `pagebackref' has already been used,
+(hyperref)                setting the option has no effect on input line 377.
+
+) (d:/TEX live/texlive/2020/texmf-dist/tex/latex/base/makeidx.sty)
+(d:/TEX live/texlive/2020/texmf-dist/tex/latex/base/inputenc.sty
+(d:/TEX live/texlive/2020/texmf-dist/tex/latex/base/latin1.def))
+Writing index file Rd2.idx
+(d:/TEX live/texlive/2020/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def)
+ (./Rd2.aux) (d:/TEX live/texlive/2020/texmf-dist/tex/latex/psnfss/t1ptm.fd)
+(d:/TEX live/texlive/2020/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+) (d:/TEX live/texlive/2020/texmf-dist/tex/latex/hyperref/nameref.sty
+(d:/TEX live/texlive/2020/texmf-dist/tex/latex/refcount/refcount.sty)
+(d:/TEX live/texlive/2020/texmf-dist/tex/generic/gettitlestring/gettitlestring.
+sty)) (./Rd2.out) (./Rd2.out)
+(d:/TEX live/texlive/2020/texmf-dist/tex/latex/psnfss/ts1ptm.fd)
+(d:/TEX live/texlive/2020/texmf-dist/tex/latex/inconsolata/t1zi4.fd)
+(d:/TEX live/texlive/2020/texmf-dist/tex/latex/psnfss/t1phv.fd
+
+LaTeX Warning: Font shape declaration has incorrect series value `mc'.
+               It should not contain an `m'! Please correct it.
+               Found on input line 20.
+
+
+LaTeX Warning: Font shape declaration has incorrect series value `mc'.
+               It should not contain an `m'! Please correct it.
+               Found on input line 23.
+
+
+LaTeX Warning: Font shape declaration has incorrect series value `mc'.
+               It should not contain an `m'! Please correct it.
+               Found on input line 26.
+
+
+LaTeX Warning: Font shape declaration has incorrect series value `mc'.
+               It should not contain an `m'! Please correct it.
+               Found on input line 46.
+
+) (./Rd2.toc) (d:/TEX live/texlive/2020/texmf-dist/tex/latex/base/utf8.def)
+[1{d:/TEX live/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+Overfull \hbox (20.22874pt too wide) in paragraph at lines 57--57
+ []    \T1/zi4/m/n/9 For example, if your name is Jack, then use the function t
+his way: "Personality_test("Jack")". 
+
+Overfull \hbox (20.21034pt too wide) in paragraph at lines 91--91
+ []    \T1/zi4/m/n/9 x <- readline(prompt = "Please type YES if you are ready a
+nd of course type NO if you are not:")[] 
+(d:/TEX live/texlive/2020/texmf-dist/tex/latex/inconsolata/ts1zi4.fd)
+Overfull \hbox (215.1766pt too wide) in paragraph at lines 97--97
+ []        \T1/zi4/m/n/9 cat("Why didn\TS1/zi4/m/n/9 '\T1/zi4/m/n/9 t Aladdin u
+se one wish to ask the lamp to give him 100 \nmore wishes when he was promised 
+only three wishes by the lamp? \n")[] 
+
+Overfull \hbox (356.16127pt too wide) in paragraph at lines 99--99
+ []        \T1/zi4/m/n/9 cat("A That\TS1/zi4/m/n/9 '\T1/zi4/m/n/9 s a good idea
+, but Aladdin failed to think of it \nB Aladdin was embarrassed to make such a 
+request, because it might make the princess think he was greedy \n")[] 
+
+Overfull \hbox (234.67047pt too wide) in paragraph at lines 102--102
+ []            \T1/zi4/m/n/9 cat("The second question:\nDo you think Jack and R
+ose can actually both lie on the board in the end of the Titanic movie to avoid
+ death?\n")[] 
+
+Overfull \hbox (26.195pt too wide) in paragraph at lines 107--107
+ []                \T1/zi4/m/n/9 cat("The third question: \nWhich do you think 
+is more beautiful, sunrise or sunset?\n")[] 
+[2]
+Overfull \hbox (518.12447pt too wide) in paragraph at lines 112--112
+ []                  \T1/zi4/m/n/9 cat("RESULT:\n  ", NAME, ", you are good at 
+thinking, have excellent questioning spirit and will put your ideas \ninto prac
+tice. You will go further and further on the road of achieving great success.")
+[] 
+
+Overfull \hbox (284.15207pt too wide) in paragraph at lines 115--115
+ []                  \T1/zi4/m/n/9 cat("RESULT:\n   You are a person with sharp
+ mind and good at dialectical thinking. Your wisdom \nfrom inside to outside ma
+kes you very charming.")[] 
+
+Overfull \hbox (26.195pt too wide) in paragraph at lines 122--122
+ []                \T1/zi4/m/n/9 cat("The third question: \nWhich do you think 
+is more beautiful, sunrise or sunset?\n")[] 
+
+Overfull \hbox (435.6398pt too wide) in paragraph at lines 127--127
+ []                  \T1/zi4/m/n/9 cat("RESULT:\n  ", NAME, ", you are a smart 
+and romantic person, you may give people a reliable, optimistic and enthusiasti
+c \nimpression, which makes everyone likes you very much.")[] 
+
+Overfull \hbox (489.6214pt too wide) in paragraph at lines 130--130
+ []                  \T1/zi4/m/n/9 cat("RESULT:\n  ", NAME, ", you are a smart 
+and cool person, you are always clear headed, full of wisdom, and most \nimport
+ant, you are always true to yourself and pursuing what you really want.")[] 
+
+Overfull \hbox (234.67047pt too wide) in paragraph at lines 141--141
+ []            \T1/zi4/m/n/9 cat("The second question:\nDo you think Jack and R
+ose can actually both lie on the board in the end of the Titanic movie to avoid
+ death?\n")[] 
+
+Overfull \hbox (26.195pt too wide) in paragraph at lines 146--146
+ []                \T1/zi4/m/n/9 cat("The third question: \nWhich do you think 
+is more beautiful, sunrise or sunset?\n")[] 
+
+Overfull \hbox (428.13367pt too wide) in paragraph at lines 151--151
+ []                  \T1/zi4/m/n/9 cat("RESULT:\n  ", NAME, ", you have a quest
+ioning spirit, you are a hard-working and thorough person, and good \nat taking
+ care of other people\TS1/zi4/m/n/9 '\T1/zi4/m/n/9 s emotions. You have very hi
+gh EQ.")[] 
+
+Overfull \hbox (527.12447pt too wide) in paragraph at lines 154--154
+ []                  \T1/zi4/m/n/9 cat("RESULT:\n  ", NAME, ", you are a carefu
+l and wise person, you are good at noticing problems and resolving conflicts. \
+nYou are calm, and good at controlling the overall situation, a natural leader.
+")[] 
+
+Overfull \hbox (26.195pt too wide) in paragraph at lines 161--161
+ []                \T1/zi4/m/n/9 cat("The third question: \nWhich do you think 
+is more beautiful, sunrise or sunset?\n")[] 
+
+Underfull \vbox (badness 10000) has occurred while \output is active [3]
+Overfull \hbox (323.149pt too wide) in paragraph at lines 166--166
+ []                  \T1/zi4/m/n/9 cat("RESULT:\n  ", NAME, ", you are a vigoro
+us, diligent and optimistic person, any difficulty can\TS1/zi4/m/n/9 '\T1/zi4/m
+/n/9 t beat you. \nYou are always on the way of progressing.")[] 
+
+Overfull \hbox (276.64594pt too wide) in paragraph at lines 169--169
+ []                  \T1/zi4/m/n/9 cat("RESULT:\n  You are a person who is good
+ at discovering the beauty in life and you are very romantic \nand charming. Yo
+u are like an artist.")[] 
+(./Rd2.ind [4]
+
+LaTeX Font Warning: Font shape `T1/zi4/m/it' undefined
+(Font)              using `T1/zi4/m/n' instead on input line 8.
+
+[5]) (./Rd2.aux)
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+ )
+(see the transcript file for additional information){d:/TEX live/texlive/2020/t
+exmf-dist/fonts/enc/dvips/inconsolata/i4-ts1.enc}{d:/TEX live/texlive/2020/texm
+f-dist/fonts/enc/dvips/base/8r.enc}{d:/TEX live/texlive/2020/texmf-dist/fonts/e
+nc/dvips/inconsolata/i4-t1-0.enc}<d:/TEX live/texlive/2020/texmf-dist/fonts/typ
+e1/public/inconsolata/Inconsolata-zi4r.pfb><d:/TEX live/texlive/2020/texmf-dist
+/fonts/type1/public/amsfonts/cm/cmsy10.pfb><d:/TEX live/texlive/2020/texmf-dist
+/fonts/type1/urw/helvetic/uhvr8a.pfb><d:/TEX live/texlive/2020/texmf-dist/fonts
+/type1/urw/times/utmb8a.pfb><d:/TEX live/texlive/2020/texmf-dist/fonts/type1/ur
+w/times/utmr8a.pfb><d:/TEX live/texlive/2020/texmf-dist/fonts/type1/urw/times/u
+tmr8a.pfb><d:/TEX live/texlive/2020/texmf-dist/fonts/type1/urw/times/utmri8a.pf
+b>
+Output written on Rd2.pdf (5 pages, 83671 bytes).
+Transcript written on Rd2.log.
+Saving output to 'Personality-manual.pdf' ...
+Done
+You may want to clean up by 'rm -Rf C:/Users/dell/AppData/Local/Temp/RtmpAt2nrA/Rd2pdf4cb4c032b1a'
