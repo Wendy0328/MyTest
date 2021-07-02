@@ -78,7 +78,7 @@ for (jj in 1:(n-1)) {
   cat("European call option price:", EU[1,1])
 }
 
-
+if(Call_or_Put==2){
   
   for (i in 1:n) {
     
@@ -131,4 +131,4 @@ for (jj in 1:(n-1)) {
   cat("European put option price:", EU[1,1])
 }
 
-
+}
