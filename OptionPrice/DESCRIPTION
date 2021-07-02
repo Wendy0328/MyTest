@@ -1,9 +1,0 @@
-Package: OptionPrice
-Type: Package
-Title: Option price calculation
-Version: 1.0
-Date: 2021-06-20
-Author: Wendy
-Maintainer: Wendy<1226994409@qq.com>
-Description: You can use this function to calculate the American and European call and put option price.
-License: GPL (>= 2)
